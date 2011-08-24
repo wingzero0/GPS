@@ -1,0 +1,243 @@
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('200764393269430','大安運動中心',25.020632,121.545518,0,5497)
+error msg = Duplicate entry '200764393269430' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('165246740194944','和平高中',25.019603,121.547483,0,502)
+error msg = Duplicate entry '165246740194944' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('185603668149405','辛亥路與基隆路口',25.018913,121.547323,0,214)
+error msg = Duplicate entry '185603668149405' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('181184585256709','法務部司法官訓練所',25.019667,121.547051,0,98)
+error msg = Duplicate entry '181184585256709' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('190952834276224','台北市立和平高中',25.019424,121.549213,0,341)
+error msg = Duplicate entry '190952834276224' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('142315709166146','國家地震工程研究中心',25.017903,121.548030,0,269)
+error msg = Duplicate entry '142315709166146' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('148624028532327','台大土木研究大樓',25.018673,121.546967,0,120)
+error msg = Duplicate entry '148624028532327' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('127908720616390','臺大法律萬才館',25.019828,121.545698,0,309)
+error msg = Duplicate entry '127908720616390' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('189382334428756','亞盧義大利窯烤',25.021453,121.548033,0,338)
+error msg = Duplicate entry '189382334428756' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('152721658120619','厚讚牛排',25.017410,121.544602,0,404)
+error msg = Duplicate entry '152721658120619' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('169517533095553','5 Senses Café',25.016007,121.545969,5,446)
+error msg = Duplicate entry '169517533095553' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('161581833905443','國'S Home',25.020708,121.548087,0,49)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S Home',25.020708,121.548087,0,49)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('155164984538625','台大霖澤館',25.021121,121.543549,0,450)
+error msg = Duplicate entry '155164984538625' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('203074486376282','國立台北教育大學明德樓',25.021332,121.545039,0,299)
+error msg = Duplicate entry '203074486376282' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('114187765324757','台大地震球場',25.018195,121.546493,0,124)
+error msg = Duplicate entry '114187765324757' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('148224891909042','通化街',25.017690,121.547880,0,137)
+error msg = Duplicate entry '148224891909042' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('178460518864171','Living One',25.018085,121.544441,0,248)
+error msg = Duplicate entry '178460518864171' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('200903739935894','Dell TDC Office',25.021751,121.547906,0,143)
+error msg = Duplicate entry '200903739935894' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('157417124312945','台大電機系明達館',25.017803,121.545224,0,103)
+error msg = Duplicate entry '157417124312945' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('201434473208712','中華經濟研究院',25.016174,121.546660,0,245)
+error msg = Duplicate entry '201434473208712' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('113880548688596','國立台北教育大學學生餐廳',25.023476,121.546482,0,266)
+error msg = Duplicate entry '113880548688596' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('203867809626854','長興BOT',25.017564,121.544916,0,198)
+error msg = Duplicate entry '203867809626854' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('113213172094672','資策會產業情報研究所（MIC)',25.020902,121.545948,0,59)
+error msg = Duplicate entry '113213172094672' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('202793303085420','基隆路',25.018255,121.545506,0,94)
+error msg = Duplicate entry '202793303085420' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('193120954039733','台大總圖',25.019322,121.544060,0,141)
+error msg = Duplicate entry '193120954039733' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('193589590659531','台大男一舍',25.016768,121.544339,0,104)
+error msg = Duplicate entry '193589590659531' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('191754280857522','台大校園',25.019879,121.543608,0,191)
+error msg = Duplicate entry '191754280857522' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('195175370501367','台大男八舍',25.017408,121.544652,0,111)
+error msg = Duplicate entry '195175370501367' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('196490900378267','台灣大學明達館',25.017289,121.544128,0,173)
+error msg = Duplicate entry '196490900378267' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('202461033101347','法律系圖書館',25.020381,121.544934,0,51)
+error msg = Duplicate entry '202461033101347' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('109091825840802','台北101',25.023232,121.545700,0,160)
+error msg = Duplicate entry '109091825840802' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('210330658993413','公館',25.017803,121.545224,0,65)
+error msg = Duplicate entry '210330658993413' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('168180019896631','國立臺灣大學國際青年宿舍',25.020826,121.545084,0,39)
+error msg = Duplicate entry '168180019896631' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('179212018792538','大安區健康服務中心',25.018635,121.544613,0,44)
+error msg = Duplicate entry '179212018792538' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('198921063461287','LivingOne @ 台大',25.017898,121.544545,0,62)
+error msg = Duplicate entry '198921063461287' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('173503929362812','台大博理館',25.020445,121.543899,0,54)
+error msg = Duplicate entry '173503929362812' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('197903146916542','LUXY',25.022007,121.544397,0,88)
+error msg = Duplicate entry '197903146916542' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('220290241317300','二十鍋',25.021354,121.544347,0,46)
+error msg = Duplicate entry '220290241317300' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('138324109572865','J n' F',25.020682,121.554691,0,48)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'F',25.020682,121.554691,0,48)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('130864543646412','老宋記真善美牛肉麵',25.019768,121.553653,0,173)
+error msg = Duplicate entry '130864543646412' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('182917815071926','白鹿洞書坊',25.019693,121.553674,0,35)
+error msg = Duplicate entry '182917815071926' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('197470563609983','尊王活海鮮熱炒',25.020825,121.553097,0,469)
+error msg = Duplicate entry '197470563609983' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('183564805007752','食園生猛活海鮮',25.020714,121.553448,0,319)
+error msg = Duplicate entry '183564805007752' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('183818841638581','鮮芋仙大安區(輔大城區部對面)',25.020467,121.554210,0,177)
+error msg = Duplicate entry '183818841638581' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('210340979001293','信義華納威秀',25.019057,121.554121,0,44)
+error msg = Duplicate entry '210340979001293' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('145437182185978','海巡署人員研習中心',25.018818,121.553730,0,51)
+error msg = Duplicate entry '145437182185978' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('112439298840751','貝詩髮藝（和平店）',25.020141,121.553968,0,30)
+error msg = Duplicate entry '112439298840751' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('197830850245001','早餐屋',25.020428,121.554312,0,38)
+error msg = Duplicate entry '197830850245001' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('155312841190021','7-11安居店',25.020575,121.554432,7,68)
+error msg = Duplicate entry '155312841190021' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('143758805688113','亞盧',25.022066,121.549852,0,793)
+error msg = Duplicate entry '143758805688113' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('170421819677019','我的棉被裡',25.018801,121.554833,0,99)
+error msg = Duplicate entry '170421819677019' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('174643859249404','地獄',25.020784,121.553347,0,32)
+error msg = Duplicate entry '174643859249404' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('209769292374344','康鮮快炒',25.020503,121.552779,0,41)
+error msg = Duplicate entry '209769292374344' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('200961769931147','丐幫滷味',25.020660,121.554617,0,55)
+error msg = Duplicate entry '200961769931147' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('138324109572865','J n' F',25.020682,121.554691,0,48)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'F',25.020682,121.554691,0,48)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('136405483090485','永和豆漿',25.020659,121.554646,0,44)
+error msg = Duplicate entry '136405483090485' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('182742981757390','八方雲集水餃鍋貼專賣店',25.020649,121.554737,0,59)
+error msg = Duplicate entry '182742981757390' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('190303950992954','呷尚寶早餐店',25.020997,121.553281,0,49)
+error msg = Duplicate entry '190303950992954' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('195154697187490','大安1景',25.018427,121.553644,0,29)
+error msg = Duplicate entry '195154697187490' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('191980127490409','敦南誠品',25.019384,121.552092,0,72)
+error msg = Duplicate entry '191980127490409' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('171895956193601','安居街',25.020654,121.555387,0,188)
+error msg = Duplicate entry '171895956193601' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('202297833134946','萊亞迷你涮涮鍋',25.021357,121.553925,0,40)
+error msg = Duplicate entry '202297833134946' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('190952834276224','台北市立和平高中',25.019424,121.549213,0,341)
+error msg = Duplicate entry '190952834276224' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('195224717171671','小慧涼麵',25.017753,121.550787,0,120)
+error msg = Duplicate entry '195224717171671' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('198233383538492','福州山公園',25.016931,121.552391,0,167)
+error msg = Duplicate entry '198233383538492' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('111319998946419','嘉興公園',25.021692,121.551536,0,116)
+error msg = Duplicate entry '111319998946419' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('189404731090336','A宰羊',25.020248,121.552292,0,23)
+error msg = Duplicate entry '189404731090336' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('178300275548448','大安國小',25.018358,121.550369,0,194)
+error msg = Duplicate entry '178300275548448' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('201058683246317','臥龍街派出所',25.017926,121.551668,0,70)
+error msg = Duplicate entry '201058683246317' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('183679011678586','亞廬義式窯烤餐廳',25.022158,121.549883,0,127)
+error msg = Duplicate entry '183679011678586' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('161066550616559','通化夜市',25.023100,121.551880,0,190)
+error msg = Duplicate entry '161066550616559' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('158224500893080','公館宜蘭蔥餅',25.021162,121.551689,0,38)
+error msg = Duplicate entry '158224500893080' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('218564111491762','食園熱炒',25.020953,121.552035,0,30)
+error msg = Duplicate entry '218564111491762' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('153515628038579','清水溪書店',25.021550,121.551498,0,66)
+error msg = Duplicate entry '153515628038579' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('141638882568267','Q'S',25.018867,121.558009,0,36)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'S',25.018867,121.558009,0,36)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('136877723046438','Julie's Diner',25.018745,121.558640,0,60)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's Diner',25.018745,121.558640,0,60)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('233907983298147','Sarwa cafe'',25.020900,121.556798,0,15)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''Sarwa cafe'',25.020900,121.556798,0,15)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('175075685599','L'etoile Pâtisserie',25.022453,121.571649,0,225)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'etoile Pâtisserie',25.022453,121.571649,0,225)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('110160295730464','Alleycat's',25.023770,121.569893,0,155)
+error msg = You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 's',25.023770,121.569893,0,155)' at line 2
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('196135133744106','姆指山頂',25.020516,121.584350,0,68)
+error msg = Duplicate entry '196135133744106' for key 'PRIMARY'
+query = insert into `GPS` (`page_id`,`name`, `latitude`, `longitude`, 
+			`likes`, `checkins`) values ('139315962804026','拇指山',25.020352,121.584234,0,6)
+error msg = Duplicate entry '139315962804026' for key 'PRIMARY'
